@@ -1,4 +1,4 @@
-# Vanilla TypeScript Übungsaufgaben
+# Vite Projekt mit Vanilla TypeScript für Übungsaufgaben
 
 Dieses Repository dient als Basis für eine Sammlung von Übungsaufgaben für Vanilla TypeScript mit Vite.
 
